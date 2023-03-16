@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
- * main -Entry point
- * 
- *Description : A C program that using puts function
+ * main - Entry point
+ *
+ * Description : Return 0
  */
 int main(void)
 {
     puts("\"Programming is like building a multilingual puzzle");
-    return 0;
+    return (0);
 }
